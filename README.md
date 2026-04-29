@@ -70,18 +70,18 @@ The dataset is loaded directly from Kaggle using the `kagglehub` library. No CSV
 
 | Chart | Type | Library | Chart |
 |---|---|---|---|
-| Monthly delay rate heatmap | Heatmap | seaborn | |
-| Delay rate by hour of day | Line chart with confidence band | **Altair** | |
-| Delay rate by day of week | Bar chart | seaborn | |
-| Departure delay by airport | Interactive bubble map | plotly | |
-| Top 20 most-delayed routes | Horizontal bar chart | matplotlib | |
-| Houston IAH vs. HOU spotlight | Annotated bar chart | matplotlib | |
-| Delay cause composition by year | 100% stacked bar chart | matplotlib | |
-| Delay cause by airline | Grouped bar chart | seaborn | |
-| Weather delay seasonality | Layered area chart | **Altair** | |
-| Delay rate by airline | Ranked horizontal bar chart | matplotlib | |
-| Delay rate vs. flight distance | Scatter plot with regression line | **Altair** | |
-| Distribution of delay length | Box plot | seaborn | |
+| Monthly delay rate heatmap | Heatmap | seaborn | <img width="962" height="305" alt="image" src="https://github.com/user-attachments/assets/ec2ae061-0a53-43b8-82c4-f25d90799311" />|
+| Delay rate by hour of day | Line chart with confidence band | **Altair** |<img width="736" height="346" alt="20260429-1621-28 6916584" src="https://github.com/user-attachments/assets/76bbb7f8-1bfa-48ad-8bc6-9326d060c1f6" />|
+| Delay rate by day of week | Bar chart | seaborn |<img width="961" height="416" alt="image" src="https://github.com/user-attachments/assets/3c48db6c-f66f-4260-8446-d8ee54910f3d" />|
+| Departure delay by airport | Interactive bubble map | plotly |<img width="912" height="452" alt="20260429-1623-56 7636666" src="https://github.com/user-attachments/assets/015443e0-87aa-4079-b8cc-458da3f1f569" />|
+| Top 20 most-delayed routes | Horizontal bar chart | matplotlib |<img width="959" height="658" alt="image" src="https://github.com/user-attachments/assets/208ffcc9-4ab3-4301-ace0-8eac53f3ad3a" />|
+| Houston IAH vs. HOU spotlight | Annotated bar chart | matplotlib |<img width="884" height="491" alt="image" src="https://github.com/user-attachments/assets/e4ccf547-a7cc-4ad3-b38c-f06374809ac5" />|
+| Delay cause composition by year | 100% stacked bar chart | matplotlib |<img width="959" height="471" alt="image" src="https://github.com/user-attachments/assets/e363b0e6-6f4f-4d6d-bcf4-a65e3fbad8b6" />|
+| Delay cause by airline | Grouped bar chart | seaborn |<img width="959" height="358" alt="image" src="https://github.com/user-attachments/assets/3b5fbc3d-5fb0-4f12-adb2-ee47419314b4" />|
+| Weather delay seasonality | Layered area chart | **Altair** |<img width="798" height="352" alt="20260429-1626-45 2225835" src="https://github.com/user-attachments/assets/2ace9335-de79-414f-a018-fbdcd10bab40" />|
+| Delay rate by airline | Ranked horizontal bar chart | matplotlib |<img width="574" height="495" alt="image" src="https://github.com/user-attachments/assets/2b227d51-ac37-4e20-b96a-01b4770efb54" />|
+| Delay rate vs. flight distance | Scatter plot with regression line | **Altair** |<img width="868" height="422" alt="20260429-1628-57 9029186" src="https://github.com/user-attachments/assets/01f0a239-a784-4be9-8908-a0069b828c02" />|
+| Distribution of delay length | Box plot | seaborn |<img width="941" height="383" alt="image" src="https://github.com/user-attachments/assets/f2622b62-6958-4c1b-8347-25cce3afba51" />|
 
 
 ---
